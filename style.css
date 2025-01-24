@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(41, 24, 24);
+}
+.center{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+#banner{
+    color: white;
+}
+#clock{
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: orange;
+    font-size: large;
+ color: white;
+ text-align: center;
+}
